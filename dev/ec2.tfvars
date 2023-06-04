@@ -5,6 +5,6 @@ default_tags = {
   "owner" = "Mr Collins"
   "status" = "critical"
   "created_by" = "IT Team"
-  "weekend_shutdown" = "No"
+  "weekendshutdown" = "No"
 
 }
