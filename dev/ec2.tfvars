@@ -4,4 +4,7 @@ default_tags = {
   "Name"  = "Marketing Department Machine DEV"
   "owner" = "Mr Collins"
   "status" = "critical"
+  "created_by" = "IT Team"
+  "weekend_shutdown" = "No"
+
 }
